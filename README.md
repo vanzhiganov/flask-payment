@@ -1,4 +1,4 @@
-Flask Payment
+# Flask Payment
 
 Beginning to build a Flask Extension which takes the pain out of calling Payment
 Gateways such as Paypal, Google Checkout etc.
