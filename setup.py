@@ -15,15 +15,15 @@ from setuptools import setup
 
 setup(
     name='Flask-Payments',
-    version='0.1',
+    version='0.2',
     url='http://github.com/LeonigMig/flask-payment/',
     license='BSD',
     author='jgumbley',
     author_email='your-email-here@example.com',
     description='<enter short description here>',
     long_description=__doc__,
-    packages=['flaskext'],
-    namespace_packages=['flaskext'],
+    packages=['flask_payments'],
+    namespace_packages=['flask_payments'],
     zip_safe=False,
     platforms='any',
     install_requires=[
